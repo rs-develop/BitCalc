@@ -206,7 +206,7 @@ void BitCalc::printAllToStdOut()
     std::cout << "+----------------------------------------------+" << std::endl;
     std::cout << std::left << "| ASCII:     " << std::setw(33) << getAsciiValue() << " |" << std::endl;
     std::cout << "+----------------------------------------------+" << std::endl;
-    std::cout << std::left << "| DEZ:       " << std::setw(20) << getDezValue() << "              |" << std::endl;
+    std::cout << std::left << "| DEC:       " << std::setw(20) << getDezValue() << "              |" << std::endl;
     std::cout << "+----------------------------------------------+" << std::endl;
     std::cout << std::left << "| Bytes:     " << std::setw(2) << (getHexValue().size()/2) << "                                |" << std::endl;
     std::cout << "+----------------------------------------------+" << std::endl;
