@@ -4,7 +4,7 @@
 *BitCalc* is a basic console application for calculating the
 - ASCI value,
 - decimal value and the
-- bit map
+- bitmap
 
 of a max 16 byte hex value.
 ```
